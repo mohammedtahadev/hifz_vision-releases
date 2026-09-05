@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.0.1",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.1-2.apk",
-    "notes":  "First test build. Bottom navigation, surah list, and the in-app updater.",
+    "versionCode":  3,
+    "versionName":  "0.0.2",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.2-3.apk",
+    "notes":  "Country and gender pickers in the You tab: A-Z sections, search, checkmark, automatic close and TalkBack confirmation.",
     "mandatory":  false,
     "releasedAt":  "2026-09-05"
 }
