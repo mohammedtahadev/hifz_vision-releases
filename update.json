@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "0.0.2",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.2-3.apk",
-    "notes":  "Country and gender pickers in the You tab: A-Z sections, search, checkmark, automatic close and TalkBack confirmation.",
+    "versionCode":  4,
+    "versionName":  "0.0.3",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.3-4.apk",
+    "notes":  "Profile now saves on the device and comes back after restart. Fixed the update flow: after allowing installs, the download now continues by itself. Added Check for updates in Settings.",
     "mandatory":  false,
     "releasedAt":  "2026-09-05"
 }
