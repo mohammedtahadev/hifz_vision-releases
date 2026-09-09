@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "0.0.6",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.6-7.apk",
-    "notes":  "Bookmark actions now appear in TalkBack\u0027s Actions control while an ayah is focused. The action was previously attached to parts of the ayah that the screen reader merges away.",
+    "versionCode":  8,
+    "versionName":  "0.0.7",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.7-8.apk",
+    "notes":  "A big one: the audio player is real.\n\nNEW AUDIO PLAYER\n- Five controls in one row: previous, rewind, play/pause, forward, next.\n- Play and pause are now a single button that changes with the state.\n- Rewind and forward use the interval you choose in Settings.\n- Previous and next move between surahs, or between paras, depending on what you opened.\n\nFOUR SLIDERS THAT STAY IN STEP\n- Time, ayah, ruku and para. Move any one and the others follow, because all four describe the same position in the recitation.\n- With TalkBack, swipe up and down on a slider to move it one step at a time.\n- Each slider speaks in real words: \"Ayah 5\", \"Ruku 3\", \"3 minutes 42 seconds\", \"Para 5, past Nisf\". No percentages.\n- The value is spoken again whenever you return to the slider.\n- Choose which sliders you want in Settings, and how big each step is.\n\nLISTEN WITH THE SCREEN OFF\n- Recitation now continues in the background, with controls on the notification and the lock screen.\n- It pauses for calls and when headphones are unplugged, and stops at the end of a surah or para.\n\nPARA AUDIO\n- Paras now play. Choosing a para plays it straight through, across surahs, announcing the surah name with each ayah.\n\nRECITER\n- Choose your reciter in Settings: Mishary Alafasy or Abdul Basit Murattal.\n\nCORRECTIONS\n- Para 4 began one ayah early. It starts at 3:93, as it should. All thirty para boundaries were checked against two independent sources.\n- Every ayah in the Quran was measured for its exact length, so positions and seeking are precise rather than estimated.",
     "mandatory":  false,
     "releasedAt":  "2026-09-09"
 }
