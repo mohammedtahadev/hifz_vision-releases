@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.0.5",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.5-6.apk",
-    "notes":  "Read the Quran as real text: reflowing pages with Previous and Next, offline, with the Bismillah shown as a heading. Bookmark any ayah by long press or the TalkBack actions menu. Audio Quran now really plays, streaming each surah. The Quran tab uses the same dropdown as Audio Quran.",
+    "versionCode":  7,
+    "versionName":  "0.0.6",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.6-7.apk",
+    "notes":  "Bookmark actions now appear in TalkBack\u0027s Actions control while an ayah is focused. The action was previously attached to parts of the ayah that the screen reader merges away.",
     "mandatory":  false,
     "releasedAt":  "2026-09-09"
 }
