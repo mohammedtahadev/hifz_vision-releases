@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "0.0.4",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.4-5.apk",
-    "notes":  "Removed the Region field from the profile. Only name, bio, gender and country are kept.",
+    "versionCode":  6,
+    "versionName":  "0.0.5",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.5-6.apk",
+    "notes":  "Read the Quran as real text: reflowing pages with Previous and Next, offline, with the Bismillah shown as a heading. Bookmark any ayah by long press or the TalkBack actions menu. Audio Quran now really plays, streaming each surah. The Quran tab uses the same dropdown as Audio Quran.",
     "mandatory":  false,
-    "releasedAt":  "2026-09-05"
+    "releasedAt":  "2026-09-09"
 }
