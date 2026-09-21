@@ -38,7 +38,7 @@ We do not share, sell or rent your information to anyone else. We will only disc
 
 ## Other services the app connects to
 
-- **Quran recitation audio** is streamed from cdn.islamic.network. As with any website, that service receives your device's IP address when audio is played.
+- **Quran recitation audio** is streamed from cdn.islamic.network and everyayah.com, depending on the reciter. As with any website, these services receive your device's IP address when audio is played.
 - **App updates** are checked for and downloaded from GitHub (github.com and raw.githubusercontent.com), which likewise receives your device's IP address.
 
 These requests do not include your profile or bookmarks.
