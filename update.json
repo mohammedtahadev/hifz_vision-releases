@@ -1,8 +1,8 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.0.9",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.9-10.apk",
-    "notes":  "Paras that match your mushaf, and a way to repeat an ayah.\n\nPARAS NOW FOLLOW THE INDO-PAK MUSHAF\n- Each para now begins where its name begins, as in Indo-Pak mushafs. Seven paras have moved:\n  Para 4 now starts at Aal-i-Imran 92.\n  Para 7 now starts at Al-Ma\u0027idah 83.\n  Para 11 now starts at At-Tawbah 94.\n  Para 14 now starts at Al-Hijr 2.\n  Para 20 now starts at An-Naml 60.\n  Para 21 now starts at Al-Ankabut 45.\n  Para 23 now starts at Ya-Sin 22.\n- This applies everywhere a para is used: reading a para, listening to a para, and the para slider in the player.\n- The para boundaries are now checked automatically, so they cannot quietly slip out of place again.\n\nREPEAT AYAH\n- A new Repeat ayah switch under the ayah slider. Turn it on and the ayah playing now repeats, from its first word to its last. Turn it off and the recitation carries on.\n- Move to another ayah while it is on, and that ayah repeats instead, so you can work through a passage one ayah at a time.\n- With TalkBack, rest on the ayah slider and open the Actions menu: choose Repeat this ayah, or Stop repeating. The slider tells you \"Ayah 5, repeating\" while it loops.\n- Repeat starts switched off each time you open the player.\n\nFIXES\n- The Dark mode switch now works with TalkBack. Before, a double tap did not change it.",
+    "versionCode":  11,
+    "versionName":  "0.0.10",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.10-11.apk",
+    "notes":  "Version 0.0.10: new Memorize tab, repeat counts and pauses, playback speed, sleep timer, thirteen new reciters with every slider working for all of them, Abdul Basit fixed, Hijri date for your country, optional Google sign-in, and a way to send us suggestions. The full list opens after you update.",
     "mandatory":  false,
-    "releasedAt":  "2026-09-17"
+    "releasedAt":  "2026-09-22"
 }
