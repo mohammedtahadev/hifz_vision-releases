@@ -1,8 +1,8 @@
 {
-    "versionCode":  11,
-    "versionName":  "0.0.10",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.10-11.apk",
-    "notes":  "Version 0.0.10: new Memorize tab, repeat counts and pauses, playback speed, sleep timer, thirteen new reciters with every slider working for all of them, Abdul Basit fixed, Hijri date for your country, optional Google sign-in, and a way to send us suggestions. The full list opens after you update.",
+    "versionCode":  12,
+    "versionName":  "0.0.11",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.11-12.apk",
+    "notes":  "Version 0.0.11: adding an ayah or ruku to Memorize is now in the TalkBack actions of the Play button, or a long press on it. The two buttons under the sliders are gone. Open the app to read the full list.",
     "mandatory":  false,
-    "releasedAt":  "2026-09-22"
+    "releasedAt":  "2026-09-26"
 }
