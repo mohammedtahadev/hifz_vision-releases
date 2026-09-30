@@ -1,8 +1,8 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.0.11",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.11-12.apk",
-    "notes":  "Version 0.0.11: adding an ayah or ruku to Memorize is now in the TalkBack actions of the Play button, or a long press on it. The two buttons under the sliders are gone. Open the app to read the full list.",
+    "versionCode":  15,
+    "versionName":  "0.0.14",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.14-15.apk",
+    "notes":  "Version 0.0.14: a fresh look and simpler names. The app is now called Hifz Vision, the tabs read Read, Listen and Practice, and Home has a new greeting with big Read and Listen buttons. Open the app to read the full list.",
     "mandatory":  false,
-    "releasedAt":  "2026-09-26"
+    "releasedAt":  "2026-09-30"
 }
