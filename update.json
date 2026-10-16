@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.0.14",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.14-15.apk",
-    "notes":  "Version 0.0.14: a fresh look and simpler names. The app is now called Hifz Vision, the tabs read Read, Listen and Practice, and Home has a new greeting with big Read and Listen buttons. Open the app to read the full list.",
+    "versionCode":  16,
+    "versionName":  "0.0.15",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.15-16.apk",
+    "notes":  "Version 0.0.15: listen without internet by downloading a surah, a para or the whole Quran; Go to ayah; sound quality that follows your internet; twenty reciters including eleven imams of the Haramain; clearer Sudais; and TalkBack fixes. The full list opens after you update.",
     "mandatory":  false,
-    "releasedAt":  "2026-09-30"
+    "releasedAt":  "2026-10-16"
 }
