@@ -1,8 +1,8 @@
 {
-    "versionCode":  16,
-    "versionName":  "0.0.15",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.15-16.apk",
-    "notes":  "Version 0.0.15: listen without internet by downloading a surah, a para or the whole Quran; Go to ayah; sound quality that follows your internet; twenty reciters including eleven imams of the Haramain; clearer Sudais; and TalkBack fixes. The full list opens after you update.",
+    "versionCode":  17,
+    "versionName":  "0.0.16",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.16-17.apk",
+    "notes":  "Version 0.0.16: Hifzy, a helper you can ask how to use the app; the Quran in your own language; prayer times; the Memorize tab; clearer Abdul Rahman Al-Sudais and Abdullah Awad Al-Juhani; Recite and check (test); and small fixes. The full list opens after you update.",
     "mandatory":  false,
-    "releasedAt":  "2026-10-16"
+    "releasedAt":  "2026-10-20"
 }
