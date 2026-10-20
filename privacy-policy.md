@@ -1,6 +1,6 @@
 # hifz_vision Privacy Policy
 
-**Effective date:** 21 September 2026
+**Effective date:** 20 October 2026
 
 hifz_vision is a free Quran reading, listening and memorisation app for Android, made to work well with screen readers. This policy explains what information the app uses, why, and the choices you have.
 
@@ -12,6 +12,8 @@ Contact: **hifzvision@gmail.com**
 - If you **sign in with Google**, your profile, bookmarks and last reading and listening place are saved online, so you can get them back on a new phone.
 - We do **not** sell your information, show ads or use advertising trackers.
 - You can **delete your account and online data** at any time from inside the app.
+- **Hifzy**, the in-app helper, answers from the app's own guide without internet. When you are online, the question you type is sent to our server so Hifzy can answer it in its own words (see below).
+- **Prayer times** use the city you type, or your approximate location if you choose "Use my location". Your location is used only to work out prayer times and is not saved online.
 
 ## Information saved online when you sign in with Google
 
@@ -23,6 +25,7 @@ Signing in is optional. If you choose to sign in, the app saves the following to
 | The name, bio and country you entered in the app | To bring your profile back on a new phone |
 | Your gender, only if you choose one (it is optional, and "Prefer not to say" is an option) | To understand who uses the app, as a count of how many users are male or female |
 | Your bookmarked ayat | To bring your bookmarks back on a new phone |
+| Your Memorize list, with how many times and when you practised each ayah or ruku | To bring your practice list back on a new phone |
 | The last surah or para you read and listened to | To let you continue where you left off |
 | The app version and the last time the app saved your data | To help us fix problems and understand which versions are still in use |
 
@@ -36,12 +39,36 @@ We do not collect your password. Google handles sign-in, and we only receive you
 
 We do not share, sell or rent your information to anyone else. We will only disclose it if the law requires us to.
 
+## Hifzy, the in-app helper
+
+Hifzy answers questions about using the app. Without internet, it answers on your phone from the app's own guide, and nothing is sent anywhere.
+
+When you are online, Hifzy first asks our server (server.swarupbaral.in), so it can answer in its own words. For that, the app sends:
+
+- the question you typed, and your last few questions and answers to Hifzy, so a follow-up question makes sense;
+- a random number made once for your copy of the app, used only to limit how many questions can be asked each day. It is not linked to your name, your Google account or your phone.
+
+Our server passes the question to Claude, an AI model made by Anthropic, to write the answer, and sends the answer back to your phone. Anthropic processes it as our service provider under its commercial terms, which do not allow it to use the question to train its models. Anthropic's privacy policy: https://www.anthropic.com/legal/privacy
+
+Our server does not save your questions or answers. It keeps only daily counts of questions (per random number and per IP address, to stop misuse) and the size of each answer, to track the cost. Please do not type personal information into Hifzy.
+
+## Prayer times and your location
+
+To show prayer times, the app needs to know your city. You can type a city and country, or choose "Use my location". If you choose your location, Android asks for your approximate location first, and you can say no and type a city instead.
+
+The city, or your approximate position, is sent to Aladhan (api.aladhan.com), a free prayer times service, to get the month's times. Android's own location service turns your position into a place name. The place you choose is saved on your phone only, so the times work offline. It is never added to your online profile.
+
+## Recite and check
+
+Recite and check listens to you recite through the microphone, only while you have pressed Start. Your recitation is checked on your phone by a speech recognition model, and is not sent to us or anyone else. The last recitation is kept on your phone only, so that you can send it to us yourself with "Share last recording" if you want to report a problem. The model is downloaded once from GitHub.
+
 ## Other services the app connects to
 
-- **Quran recitation audio** is streamed from cdn.islamic.network and everyayah.com, depending on the reciter. As with any website, these services receive your device's IP address when audio is played.
-- **App updates** are checked for and downloaded from GitHub (github.com and raw.githubusercontent.com), which likewise receives your device's IP address.
+- **Quran recitation audio** is streamed from cdn.islamic.network, everyayah.com and cdn.mp3quran.net, depending on the reciter. As with any website, these services receive your device's IP address when audio is played.
+- **Quran translations** are downloaded once from Al Quran Cloud (api.alquran.cloud) when you choose one.
+- **App updates** and the Recite and check model are downloaded from GitHub (github.com and raw.githubusercontent.com), which likewise receives your device's IP address.
 
-These requests do not include your profile or bookmarks.
+These requests do not include your profile, bookmarks or Memorize list.
 
 ## How long we keep it
 
@@ -50,6 +77,8 @@ We keep your online information for as long as your account exists. When you del
 ## Your choices
 
 - **Use the app without signing in.** Nothing about you is saved online.
+- **Use Hifzy offline.** With no internet, Hifzy's answers come from your phone and nothing is sent.
+- **Type your city** for prayer times instead of sharing your location.
 - **Sign out** at any time in You → Profile → Account. What was already saved online stays there until you delete it.
 - **Delete your account and online data** in You → Profile → Account → Delete my account and online data.
 - **Ask us.** You can also email hifzvision@gmail.com to ask for a copy of your information, to have it corrected, or to have it deleted.
