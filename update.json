@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.0.18",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.18-19.apk",
-    "notes":  "Version 0.0.18: hearing a Recite and check mistake now plays to the end, and words you recited softly are no longer called left out. The full list opens after you update.",
+    "versionCode":  20,
+    "versionName":  "0.0.19",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.19-20.apk",
+    "notes":  "Recite and check: each mistake says what went wrong, words left out are found as left out, hearing a mistake starts faster, and a silent microphone is noticed.",
     "mandatory":  false,
     "releasedAt":  "2026-10-21"
 }
