@@ -1,8 +1,8 @@
 {
-    "versionCode":  18,
-    "versionName":  "0.0.17",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.17-18.apk",
-    "notes":  "Version 0.0.17: in Recite and check, tap a mistake to hear it in Hindi, with your own words and the right word from a qari; and messages from the Hifz Vision team as notifications. The full list opens after you update.",
+    "versionCode":  19,
+    "versionName":  "0.0.18",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.18-19.apk",
+    "notes":  "Version 0.0.18: hearing a Recite and check mistake now plays to the end, and words you recited softly are no longer called left out. The full list opens after you update.",
     "mandatory":  false,
     "releasedAt":  "2026-10-21"
 }
