@@ -1,8 +1,8 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.0.16",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.16-17.apk",
-    "notes":  "Version 0.0.16: Hifzy, a helper you can ask how to use the app; the Quran in your own language; prayer times; the Memorize tab; clearer Abdul Rahman Al-Sudais and Abdullah Awad Al-Juhani; Recite and check (test); and small fixes. The full list opens after you update.",
+    "versionCode":  18,
+    "versionName":  "0.0.17",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.17-18.apk",
+    "notes":  "Version 0.0.17: in Recite and check, tap a mistake to hear it in Hindi, with your own words and the right word from a qari; and messages from the Hifz Vision team as notifications. The full list opens after you update.",
     "mandatory":  false,
-    "releasedAt":  "2026-10-20"
+    "releasedAt":  "2026-10-21"
 }
