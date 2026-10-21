@@ -1,8 +1,8 @@
 {
-    "versionCode":  20,
-    "versionName":  "0.0.19",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.19-20.apk",
-    "notes":  "Recite and check: each mistake says what went wrong, words left out are found as left out, hearing a mistake starts faster, and a silent microphone is noticed.",
+    "versionCode":  21,
+    "versionName":  "0.0.20",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.20-21.apk",
+    "notes":  "Recite and check: tapping a mistake no longer plays it (it was slow and needed the internet); the list of mistakes works fully offline.",
     "mandatory":  false,
     "releasedAt":  "2026-10-21"
 }
