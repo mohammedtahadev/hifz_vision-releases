@@ -79,7 +79,7 @@ Recite and check listens to you recite through the microphone, only while you ha
 
 ## Other services the app connects to
 
-- **Quran recitation audio** is streamed from cdn.islamic.network, everyayah.com, cdn.mp3quran.net and media.way2quran.com, depending on the reciter. As with any website, these services receive your device's IP address when audio is played.
+- **Quran recitation audio** is streamed from cdn.islamic.network, everyayah.com and cdn.mp3quran.net, depending on the reciter. As with any website, these services receive your device's IP address when audio is played.
 - **Quran translations** are downloaded once from Al Quran Cloud (api.alquran.cloud) when you choose one.
 - **App updates** and the Recite and check model are downloaded from GitHub (github.com and raw.githubusercontent.com), which likewise receives your device's IP address.
 
