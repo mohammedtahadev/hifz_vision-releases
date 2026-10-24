@@ -1,8 +1,8 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.0.20",
-    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.20-21.apk",
-    "notes":  "Recite and check: tapping a mistake no longer plays it (it was slow and needed the internet); the list of mistakes works fully offline.",
+    "versionCode":  22,
+    "versionName":  "0.0.21",
+    "apkUrl":  "https://raw.githubusercontent.com/mohammedtahadev/hifz_vision-releases/main/apk/hifz_vision-0.0.21-22.apk",
+    "notes":  "A clearer recording of Sheikh Al-Sudais for the whole Quran, cut ayah by ayah; ayah playing, repeating, sliders and downloads work as before.",
     "mandatory":  false,
-    "releasedAt":  "2026-10-21"
+    "releasedAt":  "2026-10-24"
 }
